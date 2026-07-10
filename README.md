@@ -54,11 +54,3 @@ I'm **Malyika Riasat**, a BS Information Technology student at Quaid-i-Azam Univ
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
-
----## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=malyikariasat&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=malyikariasat&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malyikariasat&layout=compact&theme=tokyonight)
