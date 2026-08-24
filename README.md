@@ -2,7 +2,7 @@
 
 I'm **Malyika Riasat**, a BS Information Technology student at Quaid-i-Azam University.
 
-💻 Passionate about Full Stack (MERN) .
+💻 Passionate about Full Stack  .
 
 🎨 I also enjoy Graphic Designing because a good UI deserves more than "it works."
 
@@ -14,22 +14,27 @@ I'm **Malyika Riasat**, a BS Information Technology student at Quaid-i-Azam Univ
 
 ## 🚀 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,dart,git,github,vscode,androidstudio&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb&perline=7" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,androidstudio&perline=6" />
 </p>
-
----
-
-## 🌱 Currently Learning
-
-- 🌐 MERN Stack Development
-- 🎨 Graphic Designing
-- ⚡ Trying to Build Real-World Projects
-- 📱 Flutter App Development (just started)
-
 ---
 
 ## 📌 Featured Projects
+
+### 🏃‍♀️ Fitness Tracker Mobile App
+- Flutter-based mobile application for tracking daily steps
+- Step counting and fitness goal tracking
+- Real-time activity monitoring
+- Built with Flutter, Dart & Android
+
+### 🤝 Khidmat App
+- Modern service-provider discovery and matching application
+- Helps users find relevant local services easily
+- Provider profiles with categories, descriptions & reviews
+- WhatsApp integration for direct communication
+- Built with React, Node.js, Express.js & MongoDB
 
 ### 💼 Portfolio Website
 - Responsive personal portfolio
