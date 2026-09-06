@@ -71,11 +71,10 @@ Service-provider discovery and matching platform with provider profiles, categor
 Responsive personal portfolio built with a modern, clean UI/UX.
 `HTML` `CSS` `JavaScript` `MERN`
 
-#### 📚 [MemoryVerse](https://github.com/malyikariasat/MemoryVerse)
+#### 📚 [MemoryVerse](https://github.com/malyikariasat/MemoryVerse/tree/main)
 Full-stack MERN application with a MongoDB database and a Node.js/Express.js backend.
 `MongoDB` `Node.js` `Express.js`
 
-> Replace the `#` links above with your actual repo URLs so each title is clickable.
 
 ---
 
