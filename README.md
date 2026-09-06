@@ -59,11 +59,11 @@
 
 ### 📌 Featured Projects
 
-#### 🏃‍♀️ [Fitness Tracker Mobile App](https://github.com/malyikariasat/fitness-tracker-app-pkcert)
+#### 🏃‍♀️ [Fitness Tracker Mobile App](https://github.com/malyikariasat/fitness-tracker-app-pkcert/tree/main)
 Flutter-based mobile application for tracking daily steps, fitness goals, and real-time activity monitoring.
 `Flutter` `Dart` `Android`
 
-#### 🤝 [Khidmat App](https://github.com/malyikariasat/khidmat-app)
+#### 🤝 [Khidmat App](https://github.com/malyikariasat/khidmat-app/tree/main)
 Service-provider discovery and matching platform with provider profiles, categories, reviews, and WhatsApp integration.
 `React` `Node.js` `Express.js` `MongoDB`
 
