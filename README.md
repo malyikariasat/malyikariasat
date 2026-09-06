@@ -59,11 +59,11 @@
 
 ### 📌 Featured Projects
 
-#### 🏃‍♀️ [Fitness Tracker Mobile App](#)
+#### 🏃‍♀️ [Fitness Tracker Mobile App](https://github.com/malyikariasat/fitness-tracker-app-pkcert)
 Flutter-based mobile application for tracking daily steps, fitness goals, and real-time activity monitoring.
 `Flutter` `Dart` `Android`
 
-#### 🤝 [Khidmat App](#)
+#### 🤝 [Khidmat App](https://github.com/malyikariasat/khidmat-app)
 Service-provider discovery and matching platform with provider profiles, categories, reviews, and WhatsApp integration.
 `React` `Node.js` `Express.js` `MongoDB`
 
@@ -71,7 +71,7 @@ Service-provider discovery and matching platform with provider profiles, categor
 Responsive personal portfolio built with a modern, clean UI/UX.
 `HTML` `CSS` `JavaScript` `MERN`
 
-#### 📚 [MemoryVerse](#)
+#### 📚 [MemoryVerse](https://github.com/malyikariasat/MemoryVerse)
 Full-stack MERN application with a MongoDB database and a Node.js/Express.js backend.
 `MongoDB` `Node.js` `Express.js`
 
